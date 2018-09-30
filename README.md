@@ -1,2 +1,2 @@
 # wincrypt
-windows crypt API usage delphi/lazarus
+windows crypto API usage delphi/lazarus
