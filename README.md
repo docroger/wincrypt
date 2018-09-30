@@ -1,2 +1,4 @@
 # wincrypt
 windows crypto API usage delphi/lazarus
+
+Tested on Delphi community Tokyo and Lazarus 1.8.4 and FPC 3.0.4
